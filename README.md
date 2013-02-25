@@ -3,6 +3,4 @@ Logic Level Shifter with 4 channels.
 
 <http://www.watterott.com/en/Level-Shifter>
 
-
-## Directories
- /pcb - Schematics and Layout files
+![Level-Shifter](https://github.com/watterott/Level-Shifter/raw/master/img/level-shifter.jpg)
