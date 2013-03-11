@@ -3,4 +3,4 @@ Logic Level Shifter with 4 channels.
 
 <http://www.watterott.com/en/Level-Shifter>
 
-![Level-Shifter](https://github.com/watterott/Level-Shifter/raw/master/img/level-shifter.jpg)
+![Level-Shifter](https://raw.github.com/watterott/Level-Shifter/master/img/level-shifter.jpg)
