@@ -1,5 +1,5 @@
 # Level-Shifter
-Logic Level Shifter with 4 channels.
+Logic Level Shifter with 4 channels (bidirectional).
 
 http://www.watterott.com/en/Level-Shifter
 
