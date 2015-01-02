@@ -5,7 +5,7 @@ For further information about the operation have a look on the following applica
 
 Shop: [Level-Shifter](http://www.watterott.com/en/Level-Shifter)
 
-![Level-Shifter](https://raw.github.com/watterott/Level-Shifter/master/img/level-shifter.jpg)
+[![Level-Shifter](https://raw.github.com/watterott/Level-Shifter/master/img/level-shifter.jpg)](http://www.watterott.com/en/Level-Shifter)
 
 
 ## Hardware
